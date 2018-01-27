@@ -1,0 +1,25 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "Web development training with Coding Dojo : Katas + TDD (software craftmanship)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yao-dev/katas.git"
+  },
+  "keywords": [],
+  "author": "Michaël Yao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yao-dev/katas/issues"
+  },
+  "homepage": "https://github.com/yao-dev/katas#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^21.2.1"
+  }
+}
